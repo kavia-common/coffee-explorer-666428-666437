@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/coffee-explorer-666428-666437/coffee_app_frontend"
+}
